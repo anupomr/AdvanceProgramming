@@ -14,7 +14,7 @@ namespace RationalDemo
             Rational r1 = new Rational(2, 3);
             Rational r2 = new Rational(4, 7);
             Rational r3 = new Rational().Add(r2);
-
+            Console.WriteLine();
             Console.WriteLine($"{r1} + {r2}={r2.Add(r1)}");
             Console.WriteLine($"{r1+r2}");
         }
