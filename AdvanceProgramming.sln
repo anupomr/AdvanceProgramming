@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodDemo", "MethodDemo\Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalDemo", "RationalDemo\RationalDemo.csproj", "{2794AB87-7F0F-4B1C-A98C-4F22D6E60E73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo", "DelegateDemo\DelegateDemo.csproj", "{E5DBAA85-31A6-46B9-90BB-823D9B39D704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{2794AB87-7F0F-4B1C-A98C-4F22D6E60E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2794AB87-7F0F-4B1C-A98C-4F22D6E60E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2794AB87-7F0F-4B1C-A98C-4F22D6E60E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DBAA85-31A6-46B9-90BB-823D9B39D704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DBAA85-31A6-46B9-90BB-823D9B39D704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DBAA85-31A6-46B9-90BB-823D9B39D704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DBAA85-31A6-46B9-90BB-823D9B39D704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C263DCFA-D490-4271-9CA3-E46D48646577} = {15E31323-7D7C-43D7-9E1C-C88BE406DF31}
 		{2794AB87-7F0F-4B1C-A98C-4F22D6E60E73} = {15E31323-7D7C-43D7-9E1C-C88BE406DF31}
+		{E5DBAA85-31A6-46B9-90BB-823D9B39D704} = {15E31323-7D7C-43D7-9E1C-C88BE406DF31}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7B3A4AEB-CC37-4AD0-A3A1-A948D228032F}
