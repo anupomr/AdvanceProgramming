@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AlarmClock
 {
-    class AlarmEventArgs
+    public class AlarmEventArgs
     {
         public string Text { get; private set; }
         public AlarmEventArgs(string text)

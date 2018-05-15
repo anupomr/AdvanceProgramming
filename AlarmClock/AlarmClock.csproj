@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="AlarmEventArgs.cs" />
     <Compile Include="AlarmEventConsumer.cs" />
+    <Compile Include="AlarmEventProducer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
